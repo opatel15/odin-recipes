@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple project from The Odin Project that I am using to learn HTML and CSS. The project requirement is to create a recipe website using HTML. This demonstrates my proficiency with basic HTML. 
